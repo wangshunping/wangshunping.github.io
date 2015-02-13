@@ -6,14 +6,8 @@ categories: Thinking
 tags: think
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
-#Mediator Formats and CSS features
+#你要知道我该些什么，你是我大爷
 
 
 
 
-#Combinations
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
->
-> - Apple
-> - Banana
-> - Plum
