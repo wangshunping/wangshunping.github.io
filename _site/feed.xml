@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">偏执狂</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-02-22T06:35:46-05:00</updated>
+<id>/</id>
+<author>
+  <name>汪顺平</name>
+  <uri>/</uri>
+  <email>lionelwang93@163.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[2014]]></title>
+ <link rel="alternate" type="text/html" href="/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/hi-happy-birthday/" />
+  <id>/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/hi-happy-birthday</id>
+  <published>2015-02-18T00:00:00-05:00</published>
+  <updated>2015-02-18T00:00:00-05:00</updated>
+  <author>
+    <name>汪顺平</name>
+    <uri></uri>
+    <email>lionelwang93@163.com</email>
+  </author>
+  <content type="html">
+    &lt;h3 id=&quot;section&quot;&gt;2014总结：让我再想想，我还没想明白。&lt;/h3&gt;
+
+&lt;p&gt;Hi，汪小小，生日快乐。
+这是第四年写年终总结，这一年发生了太多的事情。&lt;/p&gt;
+
+&lt;p&gt;是的，从选择不好好上大学跑深圳参加创新班，就注定了这一年会发生太多事情。总会有得有失，不要患得患失。&lt;/p&gt;
+
+&lt;p&gt;有段时间我向朋友们吹嘘自己是死宅，因为三月份去深圳，半年之内愣是没有去离住的地方只有十几分钟路程的海边。这半年是我开始认识到世界大的很的半年，这半年克制的自己很厉害，晚上不回宿舍在卡位，周末不出去玩去卡位，天天按时吃食堂，不跟不熟悉的同学打交道，天天就在跟强哥比谁回去的晚和最近又在学什么。
+但是这半年确实学习效率低下的半年，&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;有很多原因导致这个:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;项目组刚成立，没什么事情做，又没什么人指导；&lt;/li&gt;
+  &lt;li&gt;不知道自己该干什么；&lt;/li&gt;
+  &lt;li&gt;学习方法不正确，感觉自己一直在原地兜圈子； &lt;/li&gt;
+  &lt;li&gt;学习目的不争气，没有以问题驱动；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;所以那段时间我干了C++入门，linux入门，bash-script入门，python入门，opencv入门，matlab入门,结果是我天天能干的就是写几个shell脚本干点跑流程的活，其他的都不会，C++也来回入了好几次。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;现在我知道了：&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;less is more,一次少尝试一点新的东西，但是每次都挖深一点，其实这些都是工具，哪样非常熟练都是一样的，虽然锤子本身个有特色;&lt;/li&gt;
+  &lt;li&gt;以问题驱动来学习，每天都尝试解决一个小问题;&lt;/li&gt;
+  &lt;li&gt;好的程序员都是“懒”程序员，寻找最便捷的解决策略；&lt;/li&gt;
+&lt;/ul&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/hi-happy-birthday/&quot;&gt;2014&lt;/a&gt; was originally published by 汪顺平 at &lt;a href=&quot;&quot;&gt;偏执狂&lt;/a&gt; on February 18, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
