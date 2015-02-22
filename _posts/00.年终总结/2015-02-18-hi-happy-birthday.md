@@ -3,12 +3,13 @@ layout: post
 title: 2014
 description: "现在是正月初三，这是每年都会写的总结。"
 modified:
-#itags: [年终总结]
+#tags: [年终总结]
 image:
-feature: abstract-3.jpg
+  feature: abstract-3.jpg
 credit: dargadgetz
 category: 年终总结
 creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+excerpt_separator: testtesttest
 ---
 
 
