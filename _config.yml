@@ -73,3 +73,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "R
 locals:
   tags: 标签
   home: 主页
+  Posts: 所有发布
+  About: 关于作者
+  All_Posts: 按年份
+  All_Tags: 按标签

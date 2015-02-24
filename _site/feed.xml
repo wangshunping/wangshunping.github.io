@@ -4,13 +4,233 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-02-22T13:32:15+00:00</updated>
+<updated>2015-02-24T13:11:18+00:00</updated>
 <id>/</id>
 <author>
   <name>汪顺平</name>
   <uri>/</uri>
   <email>lionelwang93@163.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[python 函数]]></title>
+ <link rel="alternate" type="text/html" href="/%E6%8A%80%E6%9C%AF/python-skill/" />
+  <id>/%E6%8A%80%E6%9C%AF/python-skill</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2015-02-24T00:00:00+00:00</published>
+  
+  <author>
+    <name>汪顺平</name>
+    <uri></uri>
+    <email>lionelwang93@163.com</email>
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;python-&quot;&gt;python 有用却不常用的函数,记下来并经常使用。&lt;/h2&gt;
+
+&lt;h3 id=&quot;map-reduce-zip-numeratesubre&quot;&gt;包括但不限于map, reduce, zip, numerate,sub(re),&lt;/h3&gt;
+
+&lt;h3 id=&quot;zip&quot;&gt;zip&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;myFunc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;zip&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/%E6%8A%80%E6%9C%AF/python-skill/&quot;&gt;python 函数&lt;/a&gt; was originally published by 汪顺平 at &lt;a href=&quot;&quot;&gt;偏执狂&lt;/a&gt; on February 24, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sample Post]]></title>
+ <link rel="alternate" type="text/html" href="/markdown-explame/" />
+  <id>/markdown-explame</id>
+  <updated>2014-12-24T00:00:00-00:00</updated>
+  <published>2015-02-24T00:00:00+00:00</published>
+  
+  <author>
+    <name>汪顺平</name>
+    <uri></uri>
+    <email>lionelwang93@163.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+
+&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
+
+&lt;h3 id=&quot;body-text&quot;&gt;Body text&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+
+&lt;p&gt;HTML and &lt;abbr title=&quot;cascading stylesheets&quot;&gt;CSS&lt;abbr&gt; are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/abbr&gt;&lt;/abbr&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;/h2&gt;
+
+&lt;h3 id=&quot;ordered-lists&quot;&gt;Ordered Lists&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item one
+    &lt;ol&gt;
+      &lt;li&gt;sub item one&lt;/li&gt;
+      &lt;li&gt;sub item two&lt;/li&gt;
+      &lt;li&gt;sub item three&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;unordered-lists&quot;&gt;Unordered Lists&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Item one&lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+  &lt;li&gt;Item three&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h2&gt;
+
+&lt;p&gt;Syntax highlighting via Pygments&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Non Pygments code example&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;div id=&quot;awesome&quot;&amp;gt;
+    &amp;lt;p&amp;gt;This is great isn&#39;t it?&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
+
+&lt;p&gt;Make any link standout more when applying the &lt;code&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;#&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn btn-success&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-success&quot;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-warning&quot;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-danger&quot;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/markdown-explame/&quot;&gt;Sample Post&lt;/a&gt; was originally published by 汪顺平 at &lt;a href=&quot;&quot;&gt;偏执狂&lt;/a&gt; on February 24, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[毕业设计]]></title>
+ <link rel="alternate" type="text/html" href="/%E9%A1%B9%E7%9B%AE/graduation-project/" />
+  <id>/%E9%A1%B9%E7%9B%AE/graduation-project</id>
+  <published>2015-02-24T00:00:00+00:00</published>
+  <updated>2015-02-24T00:00:00+00:00</updated>
+  <author>
+    <name>汪顺平</name>
+    <uri></uri>
+    <email>lionelwang93@163.com</email>
+  </author>
+  <content type="html">
+    &lt;blockquote&gt;
+  &lt;p&gt;这是我毕业项目的主页。项目的内容是“人们在社交网络上，更倾向于表达怎样的情绪”。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;项目背景介绍&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;这个项目来自于知乎的一篇文章。我觉得这个题目很有意思。&lt;/li&gt;
+  &lt;li&gt;一个朋友问我“这个东西有什么意义呢？” “没什么意义，just for fun.”我如是回答&lt;/li&gt;
+  &lt;li&gt;我希望这个项目开源，所以有了这个主页，我希望更多的人来fork或者把任何建议push给我。当然了，我也做好了一个人弄的准备。&lt;/li&gt;
+  &lt;li&gt;这个项目的所用语言为python，一是“这辆老爷车有很多RPG之类的重武器，并且很好用”，二是这门语言学起来简单。&lt;/li&gt;
+  &lt;li&gt;项目的内容包括但不限于：爬虫，中文分词，统计及机器学习，数据可视化&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;项目内容简介&lt;/h2&gt;
+
+&lt;p&gt;目前的设想是这样的:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;从微博（因为字数有限制）爬取大学生（安徽医科大学）学生所发的状态，去除掉转发和广告之类的信息；&lt;/li&gt;
+  &lt;li&gt;标记20%的数据，1或者0（乐观或者悲观）；&lt;/li&gt;
+  &lt;li&gt;根据中文分词，用navie bayes算出所有数据的label;&lt;/li&gt;
+  &lt;li&gt;数据可视化；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;项目可能出现的问题&lt;/h2&gt;
+
+&lt;p&gt;根据华科学霸提醒，项目中可能有的问题：1.从数据到结论（如何更好的解释结果）；2.结论单薄，可以尝试抽取部分小的数据集得到小结论。&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/%E9%A1%B9%E7%9B%AE/graduation-project/&quot;&gt;毕业设计&lt;/a&gt; was originally published by 汪顺平 at &lt;a href=&quot;&quot;&gt;偏执狂&lt;/a&gt; on February 24, 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
