@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-03-10T06:51:15+00:00</updated>
+<updated>2015-03-10T06:54:52+00:00</updated>
 <id>/</id>
 <author>
   <name>汪顺平</name>
@@ -27,7 +27,7 @@
   <content type="html">
     &lt;h2 id=&quot;section&quot;&gt;我是谁？&lt;/h2&gt;
 
-&lt;p&gt;11级生物医学工程，汪顺平。&lt;/p&gt;
+&lt;p&gt;11级生物医学工程，我叫汪顺平。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-1&quot;&gt;学霸学长？&lt;/h2&gt;
 
@@ -40,9 +40,13 @@
 
 &lt;h2 id=&quot;section-3&quot;&gt;要进去的话，哪些课程比较重要？&lt;/h2&gt;
 
-&lt;p&gt;不仅仅是对来华大，我觉得最重要的是数学和物理。
-&amp;gt; 数学是告诉你这个世界是怎么构成的，物理告诉你怎么重构他。
-当然，好好对待每一门课。&lt;/p&gt;
+&lt;p&gt;不仅仅是对来华大，我觉得最重要的是数学和物理。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;数学是告诉你这个世界是怎么构成的，物理告诉你怎么重构他。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;当然，好好对待每一门课。&lt;/p&gt;
 
 &lt;p&gt;如果只讨论学什么能来华大的话，可以多接触一些编程语言，例如c++（编译语言），python,perl（脚本语言）&lt;/p&gt;
 
