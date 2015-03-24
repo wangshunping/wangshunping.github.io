@@ -3,7 +3,7 @@ layout: post
 title: 毕业设计
 description: "准备开始的本科毕业设计，欢迎大家支持，和给我建议。"
 modified: 2015.03.23
-tags:    
+tags:
 image:
   feature: abstract-2.jpg
 category: 项目
@@ -11,13 +11,14 @@ category: 项目
 
 > 这是我毕业项目的主页。项目的内容是“人们在社交网络上，更倾向于表达怎样的情绪”。
 
-项目地址： https://github.com/wangshunping/weibo_spider
+<div markdown="0"><a href="https://github.com/wangshunping/weibo_spider" class="btn">项目地址</a></div>
 
 ## 项目背景介绍
- 
-  1. 这是我人生中第一次尝试为开源做贡献,项目所有源码数据开源，尽最大的可能帮助想要学习，尝试，或者对我的项目感兴趣的人。
-  2. 这个项目的所用语言为python，“这辆老爷车有很多RPG之类的重武器，并且很好用”，我喜欢python的简洁。
-  3. 项目的内容包括但不限于：爬虫，中文分词，统计及机器学习，数据可视化。
+
+  1. 项目的起点是在知乎上看到了这篇<a href="http://www.zhihu.com/question/27086370/answer/35356508">相对于现实，人们更倾向于在社交网络中表达负面情绪？</a>
+  2. 这是我人生中第一次尝试为开源做贡献，项目所有源码、数据开源，尽最大的可能帮助想要学习、尝试或者对我的项目感兴趣的人。
+  3. 这个项目的所用语言为python，“这辆老爷车有很多RPG之类的重武器，并且很好用”，我喜欢python的简洁。
+  4. 项目的内容包括但不限于：爬虫，中文分词，统计及机器学习，数据可视化。
 
 ## 项目内容简介
 
