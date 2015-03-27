@@ -45,5 +45,29 @@ category: 项目
 2. 数据库用的是MySQL。
 3. 爬的久了还是会封号，不过因为sleep(1)后好像能爬的更久了，难道是幻觉？
 
+### Update 2015.03.27
 
+感谢王冠同学的帮助，他说“为什么不存两个表呢”，解决了我蛋疼很久的问题。
 
+话不多说。先上图：
+<figure><img  src="/images/mwRatio.png" alt=""></figure>
+
+<figure><img src="/images/sex2totalcontent.png"></figure>
+<figure><img src="/images/sex2zhuangfa.png"></figure>
+
+总算有一点成果了。我改了原来的表，加了两列，分别是每个用户所发的微博数量和转发的数量。
+
+然后我新建了一张表，用来存放每条有用的微博信息。如下图。
+
+<figure><img src="/images/name.png"></figure>
+<figure><img src="/images/content.png"></figure>
+
+现在大概爬了500+的用户，因为爬的太快会被冻结账号，所以现在只能放慢速度。
+
+还有很多东西没想好怎么弄，过两天可以先把data clean和中文分词做好了。诚邀学统计的学数学的学机器学习的同学，接下来我真的不知道怎么弄了。
+
+这里有一堆纯文本文件，希望能一起发现里面好玩的东西。
+
+谢谢琛涛，我希望更多的人去了解python，运行我的程序，把你的学校的结果给我。
+
+最后谢谢fork和star我的所有人，我这么不要脸求star，是为了理想。
