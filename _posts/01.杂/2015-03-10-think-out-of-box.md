@@ -6,7 +6,7 @@ modified:
 #tags: [sample post]
 image:
   feature: abstract-4.jpg
-category: 技术
+category: 杂
 ---
 
 ## 我是谁？
