@@ -6,10 +6,7 @@ modified:
 #tags: [年终总结]
 image:
   feature: abstract-4.jpg
-credit: dargadgetz
 category: 年终总结
-creditlink: 
-excerpt_separator: testtesttest
 ---
 
 > 23岁的年终总结，这一年是我当程序员的第一年。
